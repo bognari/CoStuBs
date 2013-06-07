@@ -16,6 +16,7 @@ local.properties
 .loadpath
 *.bin
 *.o
+*.img
 
 
 # External tool builders
@@ -215,3 +216,6 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+/übung.tar
+
+/Vorlesung.zip
