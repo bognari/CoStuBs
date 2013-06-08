@@ -21,6 +21,9 @@
 
 #include "interrupts/IntLock.h"
 
+#include "sync/KernelLock.h"
+
+
 //extern PrintStream out;
 
 
